@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: BumpedEmvironment
+  m_Name: CubeMapEmission
   m_Shader: {fileID: 4800000, guid: 036cb1899d187490bb33e163d2adb781, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -24,7 +24,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _CubeMap:
-        m_Texture: {fileID: 8900000, guid: 656a59a5ff93c46498416d97e5c16b66, type: 3}
+        m_Texture: {fileID: 8900000, guid: a3ce6da63ab164469b5db213572f812b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
